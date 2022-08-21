@@ -7,6 +7,11 @@ moeda ele deseja realizar a consulta de valores, informar a quantidade em Reais 
 O programa irá realizar a consulta do valor da moeda selecionada naquele momento, atraves de API (economia.awesomeapi.com.br) realizará a conversão e apresentara
 o resultado na tela, caso o usuário deseje consultar o mesmo valor em outra moeda, basta realizar a troca e a converão ocorrerá automaticamente.
 
+## 🎨 Layout
+
+![image](https://github.com/FelipePetriw/Conversordemoedas/blob/main/src/img/Tela-D%C3%B3lar.png)
+![image](https://github.com/FelipePetriw/Conversordemoedas/blob/main/src/img/Tela-Euro.PNG)
+
 ## 🛠 Tecnologias
 
 Foram utilizadas as seguintes ferramentas para o desenvolvimento do projeto:
