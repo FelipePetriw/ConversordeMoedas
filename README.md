@@ -26,3 +26,9 @@ Esse projeto foi elaborado para web e mobile. </br>
 Para acessar basta clicar no link abaixo:
 
 https://felipepetriw.github.io/Conversordemoedas/
+
+## 📝 Licença
+
+Este projeto esta sobe a licença MIT.
+
+Feito por Felipe Petriw - [Entre em contato!](https://www.linkedin.com/in/felipepetriw/)
