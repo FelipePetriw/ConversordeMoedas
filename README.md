@@ -1,11 +1,11 @@
 # Conversor de Moedas.
 
 ## 💻 Sobre o Projeto
-O programa realizada a conversão do Real (R$) para a moeda selecionada, podendo ser o Dólar Americano (U$$) ou o Euro (€). Basta o usuário informar para qual 
+O programa realiza a conversão do Real (R$) para a moeda selecionada, podendo ser o Dólar Americano (U$$) ou Euro (€). Basta o usuário informar para qual 
 moeda ele deseja realizar a consulta de valores, informar a quantidade em Reais (R$) e clicar em converter.
 
-O programa irá realizar a consulta do valor da moeda selecionada naquele momento, realizar a conversão e apresentar o resultado na tela, caso o usuário deseje
-consultar o mesmo valor em outra moeda, basta realizar a troca e a converão ocorrerá automaticamente.
+O programa irá realizar a consulta do valor da moeda selecionada naquele momento, atraves de API (economia.awesomeapi.com.br) realizará a conversão e apresentara
+o resultado na tela, caso o usuário deseje consultar o mesmo valor em outra moeda, basta realizar a troca e a converão ocorrerá automaticamente.
 
 ## 🛠 Tecnologias
 
