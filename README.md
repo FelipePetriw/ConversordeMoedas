@@ -29,6 +29,6 @@ https://felipepetriw.github.io/Conversordemoedas/
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença MIT.
+Este projeto esta sob a licença MIT.
 
 Feito por Felipe Petriw - [Entre em contato!](https://www.linkedin.com/in/felipepetriw/)
